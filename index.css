@@ -1,0 +1,100 @@
+.box {
+  height: 100px !important;
+  width: 600px !important;
+  
+
+
+}
+h1 {
+  font-family: 'Rokkitt', serif !important;
+  text-align: center !important;
+  color: #fff !important;
+  font-size: 35px !important;
+  margin-top: 0px !important;
+}
+
+ul{
+  list-style: none !important;
+}
+
+li{
+  font-family: 'Rokkitt', serif !important;
+  font-size: 2em !important;
+  color: #feb135 !important;
+}
+
+input[type=radio]{
+  border: 0px !important;
+  width: 20px !important;
+  height: 2em !important;
+}
+
+p{
+  font-family: 'Rokkitt', serif !important;
+}
+
+/* Quiz Classes */
+.quizContainer {
+  background-image: url("https://i.pinimg.com/originals/56/a9/04/56a904ec375d24a9a9433960ccd51d20.jpg")!important;
+  background-size: cover!important;
+  border-radius: 8px !important;
+  width: 75% !important;
+  margin: auto !important;
+  margin-top: 0px !important;
+  padding-top: 5px !important;
+  position: relative !important;
+}
+
+.nextButton{
+  border-radius: 6px !important;
+  width: 150px !important;
+  height: 40px !important;
+  text-align: center !important;
+  background-color: #cc0000 !important;
+  /clear: both;/
+  color:#fff !important;
+  font-family: 'Rokkitt', serif !important;
+  font-weight: bold !important;
+  position: relative !important;
+  margin: auto !important;
+  padding-top: 20px !important;
+}
+
+.question{
+  font-family: 'Rokkitt', serif !important;
+  font-size: 2em !important;
+  width: 90% !important;
+  height: auto !important;
+  margin: auto !important;
+  border-radius: 6px !important;
+  background-color: #f2f205 !important;
+  text-align: center !important;
+  color: #080808 !important;
+}
+
+.quizMessage{
+  background-color: peachpuff !important;
+  border-radius: 6px !important;
+  width: 30% !important;
+  margin: auto !important;
+  text-align: center !important;
+  padding: 2px !important;
+  font-family: 'Rokkitt', serif !important;
+  color: red !important;
+}
+
+.choiceList {
+  font-family: 'Courier New', Courier, monospace !important;
+  color: blueviolet !important;
+}
+
+.result {
+  width: 30% !important;
+  height: auto !important;
+  border-radius: 6px !important;
+  background-color: linen !important;
+  margin: auto !important;
+  margin-bottom: 35px !important;
+  text-align: center !important;
+  font-family: 'Rokkitt', serif !important;
+}
